@@ -10,13 +10,14 @@ aside{
     background-color: #383838;
     width: 200px;
     height: 100vh;
-    margin-top: -20px;
+    margin-top: -22px;
+    display: none;
 }
 .primary-nav{
     height: 50px;
     background-color: #202020;
 }
-.menu-icon{
+#menu-icon{
     font-size: 30px;
     margin: 10px 0 0 30px; 
     color: #fff;
